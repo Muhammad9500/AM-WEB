@@ -1,6 +1,6 @@
 body{
   margin: 0;
-  background-color: white;
+  background-color: rgb(243, 0, 0);
 }
 ::-webkit-scrollbar {
     width: 0;
