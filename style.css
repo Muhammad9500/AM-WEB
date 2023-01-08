@@ -60,6 +60,11 @@ body{
       width: 1200px;
     }
   }
+  @media (prefers-color-scheme: dark) {
+    body{
+      background-color: white;
+    }
+  }
 .header-container{
     display: flex;
     flex-direction: column;
